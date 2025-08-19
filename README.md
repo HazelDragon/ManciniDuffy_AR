@@ -29,4 +29,4 @@ Reality Composer ( Can be installed onto iPhones / iPads if unable to access a M
 7. Test the model with the AR button
 8. Export project as USDZ
 
-You can now 
+You can now create AR experiences for the iPhone without needing a Mac for development 
