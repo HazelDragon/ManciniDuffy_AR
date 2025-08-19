@@ -4,9 +4,9 @@ Cancini Duffy
 # System Requirements 
 Unity 6
 Blender ( Or any animation software )   
-USD Exporter Package (com.unity.exporter.usd)
-Unity Recorder Package
-Reality Composer ( Can be installed onto iPhones / iPads if unable to access a Mac) 
+USD Exporter Package (com.unity.exporter.usd)  
+Unity Recorder Package  
+Reality Composer ( Can be installed onto iPhones / iPads if unable to access a Mac)   
 
 # Steps - Unity 
 1. Create an animation in Blender, or any animation software that can export as an FBX.
